@@ -8,6 +8,7 @@ export const IconStyle = createGlobalStyle`
   url('iconfont.woff?t=1565320061289') format('woff'),
   url('iconfont.ttf?t=1565320061289') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
   url('iconfont.svg?t=1565320061289#iconfont') format('svg'); /* iOS 4.1- */
+  
 }
 
 .iconfont {
@@ -17,4 +18,4 @@ export const IconStyle = createGlobalStyle`
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-`
+`;
