@@ -15,14 +15,12 @@ export const Slidercontainer = styled.div`
       background:${style['theme-color']}
   }
   .swiper-container {
-    position:relative;
     width: 98%;
     height: 300px;
     overflow:hidden;
     margin:auto;
     border-radius:6px;
     .slider-nav{
-        position:absolute;
         display:block;
         width:100%;
         height:100%;
